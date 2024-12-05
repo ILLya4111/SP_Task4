@@ -1,0 +1,3 @@
+C:\Users\illa1\OneDrive\Desktop\sp\lab-illa-test\x64\Debug\gtest.pdb
+C:\Users\illa1\OneDrive\Desktop\sp\lab-illa-test\x64\Debug\gtest_main.pdb
+C:\Users\illa1\OneDrive\Desktop\sp\lab-illa-test\lab-illa-test\x64\Debug\lab-illa.FA34B063.Up2Date
